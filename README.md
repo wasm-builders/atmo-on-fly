@@ -1,6 +1,6 @@
 # atmo-on-fly
 
-## Pre-requisites
+## Prerequisites
 
 ### Fly.io
 
@@ -27,6 +27,7 @@ You need to create a Fly.io token (after the sign up):
 
 - Use https://web.fly.io/user/personal_access_tokens/new
 - Copy the generated value to an environment variable `FLY_ACCESS_TOKEN`
+
 
 ### Suborbital
 
